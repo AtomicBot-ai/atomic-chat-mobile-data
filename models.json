@@ -374,25 +374,6 @@
     "isOnboarding": false
   },
   {
-    "id": "Gatchamn/coreml-dreamshaper-8-8bit",
-    "name": "DreamShaper v8",
-    "description": "Stylized SD 1.5 fine-tune. Strong illustrative, fantasy, and concept-art output.",
-    "size": 1161814548,
-    "iconUrl": "dreamshaper",
-    "engine": "coreml-diffusion",
-    "mmprojRemoteId": null,
-    "badges": [
-      {
-        "label": "image",
-        "tone": "purple"
-      }
-    ],
-    "platforms": [
-      "ios"
-    ],
-    "isOnboarding": false
-  },
-  {
     "id": "LiquidAI/LFM2.5-2.6B-GGUF/LFM2.5-2.6B-Q4_K_M.gguf",
     "name": "LFM2.5-2.6B",
     "description": "On-device agentic model: plans, calls tools, handles multi-step tasks on your phone.",
@@ -419,5 +400,24 @@
     "isOnboarding": false,
     "createdAt": "2026-08-05T18:24:34.917Z",
     "updatedAt": "2026-08-05T18:24:34.917Z"
+  },
+  {
+    "id": "Gatchamn/coreml-dreamshaper-8-8bit",
+    "name": "DreamShaper v8",
+    "description": "Stylized SD 1.5 fine-tune. Strong illustrative, fantasy, and concept-art output.",
+    "size": 1161814548,
+    "iconUrl": "dreamshaper",
+    "engine": "coreml-diffusion",
+    "mmprojRemoteId": null,
+    "badges": [
+      {
+        "label": "image",
+        "tone": "purple"
+      }
+    ],
+    "platforms": [
+      "ios"
+    ],
+    "isOnboarding": false
   }
 ]
