@@ -1,5 +1,33 @@
 [
   {
+    "id": "LiquidAI/LFM2.5-2.6B-GGUF/LFM2.5-2.6B-Q4_K_M.gguf",
+    "name": "LFM2.5-2.6B",
+    "description": "On-device agentic model: plans, calls tools, handles multi-step tasks on your phone.",
+    "size": 1674454848,
+    "iconUrl": "liquid",
+    "engine": "llama",
+    "mmprojRemoteId": null,
+    "forceCpu": false,
+    "supportsThinking": true,
+    "badges": [
+      {
+        "label": "thinking",
+        "tone": "purple"
+      },
+      {
+        "label": "agentic",
+        "tone": "blue"
+      }
+    ],
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "isOnboarding": false,
+    "createdAt": "2026-08-05T18:24:34.917Z",
+    "updatedAt": "2026-08-05T18:24:34.917Z"
+  },
+  {
     "id": "LiquidAI/LFM2.5-VL-1.6B-GGUF/LFM2.5-VL-1.6B-Q4_0.gguf",
     "name": "LFM 2.5 VL (1.6B)",
     "description": "An updated vision-language model with enhanced multilingual vision understanding.",
@@ -372,34 +400,6 @@
       "ios"
     ],
     "isOnboarding": false
-  },
-  {
-    "id": "LiquidAI/LFM2.5-2.6B-GGUF/LFM2.5-2.6B-Q4_K_M.gguf",
-    "name": "LFM2.5-2.6B",
-    "description": "On-device agentic model: plans, calls tools, handles multi-step tasks on your phone.",
-    "size": 1674454848,
-    "iconUrl": "liquid",
-    "engine": "llama",
-    "mmprojRemoteId": null,
-    "forceCpu": false,
-    "supportsThinking": true,
-    "badges": [
-      {
-        "label": "thinking",
-        "tone": "purple"
-      },
-      {
-        "label": "agentic",
-        "tone": "blue"
-      }
-    ],
-    "platforms": [
-      "ios",
-      "android"
-    ],
-    "isOnboarding": false,
-    "createdAt": "2026-08-05T18:24:34.917Z",
-    "updatedAt": "2026-08-05T18:24:34.917Z"
   },
   {
     "id": "Gatchamn/coreml-dreamshaper-8-8bit",
