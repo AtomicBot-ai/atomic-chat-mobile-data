@@ -1,5 +1,38 @@
 [
   {
+    "id": "LiquidAI/LFM2.5-VL-3B-GGUF/LFM2.5-VL-3B-Q4_0.gguf",
+    "name": "LFM2.5-VL-3B",
+    "description": "A lightweight vision-language model that reads screens, documents and the physical world",
+    "size": 1593894112,
+    "iconUrl": "liquid",
+    "engine": "llama",
+    "mmprojRemoteId": "LiquidAI/LFM2.5-VL-3B-GGUF/mmproj-LFM2.5-VL-3B-Q8_0.gguf",
+    "mmprojSize": 583109120,
+    "forceCpu": false,
+    "supportsThinking": false,
+    "badges": [
+      {
+        "label": "vision",
+        "tone": "blue"
+      },
+      {
+        "label": "recommended",
+        "tone": "green"
+      },
+      {
+        "label": "fast",
+        "tone": "orange"
+      }
+    ],
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "isOnboarding": false,
+    "createdAt": "2026-08-12T16:41:27.165Z",
+    "updatedAt": "2026-08-12T16:41:27.165Z"
+  },
+  {
     "id": "LiquidAI/LFM2.5-2.6B-GGUF/LFM2.5-2.6B-Q4_K_M.gguf",
     "name": "LFM2.5-2.6B",
     "description": "On-device agentic model: plans, calls tools, handles multi-step tasks on your phone.",
@@ -419,38 +452,5 @@
       "ios"
     ],
     "isOnboarding": false
-  },
-  {
-    "id": "LiquidAI/LFM2.5-VL-3B-GGUF/LFM2.5-VL-3B-Q4_0.gguf",
-    "name": "LFM2.5-VL-3B",
-    "description": "A lightweight vision-language model that reads screens, documents and the physical world",
-    "size": 1593894112,
-    "iconUrl": "liquid",
-    "engine": "llama",
-    "mmprojRemoteId": "LiquidAI/LFM2.5-VL-3B-GGUF/mmproj-LFM2.5-VL-3B-Q8_0.gguf",
-    "mmprojSize": 583109120,
-    "forceCpu": false,
-    "supportsThinking": false,
-    "badges": [
-      {
-        "label": "vision",
-        "tone": "blue"
-      },
-      {
-        "label": "recommended",
-        "tone": "green"
-      },
-      {
-        "label": "fast",
-        "tone": "orange"
-      }
-    ],
-    "platforms": [
-      "ios",
-      "android"
-    ],
-    "isOnboarding": false,
-    "createdAt": "2026-08-12T16:41:27.165Z",
-    "updatedAt": "2026-08-12T16:41:27.165Z"
   }
 ]
