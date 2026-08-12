@@ -25,16 +25,22 @@
     "size": 1593894112,
     "iconUrl": "liquid",
     "engine": "llama",
-    "mmprojRemoteId": null,
+    "mmprojRemoteId": "LiquidAI/LFM2.5-VL-3B-GGUF/mmproj-LFM2.5-VL-3B-Q8_0.gguf",
+    "mmprojSize": 583109120,
     "forceCpu": false,
     "supportsThinking": false,
-    "badges": [],
+    "badges": [
+      {
+        "label": "vision",
+        "tone": "green"
+      }
+    ],
     "platforms": [
       "ios",
       "android"
     ],
     "isOnboarding": false,
     "createdAt": "2026-08-12T16:05:51.754Z",
-    "updatedAt": "2026-08-12T16:05:51.754Z"
+    "updatedAt": "2026-08-12T16:12:19.584Z"
   }
 ]
