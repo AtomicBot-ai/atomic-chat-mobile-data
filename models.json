@@ -448,33 +448,5 @@
       "ios"
     ],
     "isOnboarding": false
-  },
-  {
-    "id": "zaakirio/LFM2.5-1.2B-Instruct-Uncensored-GGUF/LFM2.5-1.2B-Instruct-Uncensored-Q4_K_M.gguf",
-    "name": "LFM2.5 1.2B Uncensored",
-    "description": "Heretic removes the model's safety alignment using directional ablation",
-    "size": 730895520,
-    "iconUrl": "custom",
-    "engine": "llama",
-    "mmprojRemoteId": null,
-    "forceCpu": false,
-    "supportsThinking": false,
-    "badges": [
-      {
-        "label": "Uncensored",
-        "tone": "orange"
-      },
-      {
-        "label": "Fast",
-        "tone": "green"
-      }
-    ],
-    "platforms": [
-      "ios",
-      "android"
-    ],
-    "isOnboarding": true,
-    "createdAt": "2026-09-17T15:32:23.676Z",
-    "updatedAt": "2026-09-17T15:32:23.676Z"
   }
 ]
