@@ -448,5 +448,34 @@
       "ios"
     ],
     "isOnboarding": false
+  },
+  {
+    "id": "prism-ml/Ternary-Bonsai-2-27B-gguf/Ternary-Bonsai-2-27B-PTQ1_0.gguf",
+    "name": "Ternary Bonsai 2 27B",
+    "description": "27B-class reasoning in 6 GB",
+    "size": 5946648928,
+    "iconUrl": "bonsai",
+    "engine": "llama",
+    "mmprojRemoteId": "prism-ml/Ternary-Bonsai-2-27B-gguf/Ternary-Bonsai-2-27B-mmproj-Q8_0.gguf",
+    "mmprojSize": 629246976,
+    "forceCpu": false,
+    "supportsThinking": true,
+    "badges": [
+      {
+        "label": "vision",
+        "tone": "green"
+      },
+      {
+        "label": "thinking",
+        "tone": "purple"
+      }
+    ],
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "isOnboarding": false,
+    "createdAt": "2026-09-17T21:12:25.380Z",
+    "updatedAt": "2026-09-17T21:12:25.380Z"
   }
 ]
