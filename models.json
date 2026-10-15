@@ -212,7 +212,7 @@
   },
   {
     "id": "prism-ml/Ternary-Bonsai-2-2B-gguf/Ternary-Bonsai-2-2B-PQ2_0.gguf",
-    "name": "Ternary-Bonsai-2-2B-PQ2_0",
+    "name": "Ternary Bonsai 2 2B",
     "description": "Strong reasoning, visual understanding, and tool calling in compact models designed for everyday devices:",
     "size": 517312992,
     "iconUrl": "bonsai",
@@ -237,7 +237,7 @@
     ],
     "isOnboarding": false,
     "createdAt": "2026-10-15T21:49:32.596Z",
-    "updatedAt": "2026-10-15T21:49:32.596Z"
+    "updatedAt": "2026-10-15T21:52:16.023Z"
   },
   {
     "id": "ggml-org/gemma-3-1b-it-GGUF/gemma-3-1b-it-Q4_K_M.gguf",
